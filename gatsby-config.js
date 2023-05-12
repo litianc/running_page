@@ -5,7 +5,7 @@ module.exports = {
   siteMetadata: {
     siteTitle: 'Running Page',
     siteUrl: 'https://running.litianc.cn',
-    logo: 'https://encrypted-tbn0.gstatic.com/images?https://litianc.cn/images/avatar.jpg',
+    logo: 'https://litianc.cn/images/avatar.jpg',
     description: 'Personal site and blog',
     navLinks: [
       {
