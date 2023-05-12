@@ -33,6 +33,7 @@ jobs:
   sync:
     name: Sync
     runs-on: ubuntu-latest
+    environment: Production
     steps:
       - name: Checkout
         uses: actions/checkout@v2
